@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edmilson! a Software Enginneer <br/><a href="https://github.com/Egomessss/Egomessss">Programmer</a>, <a href="https://www.linkedin.com/in/edmilson-gomes-6b4353242/">></h1>
+<h1>Hi, I'm Edmilson! a Software<a href="https://www.linkedin.com/in/edmilson-gomes-6b4353242/"> Enginneer </a><br/></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
