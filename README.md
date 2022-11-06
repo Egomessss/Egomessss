@@ -3,9 +3,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>My Very First Solo Project : A simple Bastketball Scoreboard</b>
-  - [Praciting HTML, CSS, Javascript and implementing simple concepts](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing HTML, CSS, Javascript and implementing simple concepts](link)
 - <b>My Personal Portfolio (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [description and (link)]</b></i>
 - <b>Chrome extension</b>
   - [Allows Users To Full Screen A Youtube Video In Windowed Mode](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Next Project - Connecting Citizens With Their Surroundings</b>
