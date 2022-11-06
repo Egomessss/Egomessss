@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edmilson! a Software<a href="https://www.linkedin.com/in/edmilson-gomes-6b4353242/"> Enginneer </a><br/></h1>
+<h1>Hi, I'm Edmilson! a <a href="https://www.linkedin.com/in/edmilson-gomes-6b4353242/">Software Enginneer </a><br/></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -8,24 +8,20 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Chrome extension</b>
   - [Allows Users To Full Screen A Youtube Video In Windowed Mode](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>Next Project</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
- 
-<h2>Tech Stack</h2>
+- <b>Next Project - Connecting Citizens With Their Surroundings</b>
+  - [Soon...]
+  
+<h2>My Tech Stack</h2>
 
-- [HTML, CSS,CSS Bootstrap, Javascript,React, Node.js, Express.js, MongoDB, Rest API, Git)
+- [HTML, CSS,CSS Bootstrap, Javascript,React, Redux Node.js, Express.js, MongoDB, Rest API, Git)
 
 <h2>I'm Currently working on...</h2>
-
-
-<h2>I’m currently learning ...</h2>
-
-
+Getting My Degree in Computer Science and Engineering
 
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]Gmail]
+[ ed.gomes97@gmail.com | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />]Gmail]
 
 [Gmail]: https://twitter.com/joshmadakor
 [linkedin]: https://linkedin.com/in/joshmadakor
