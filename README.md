@@ -20,7 +20,10 @@ Getting My Degree in Computer Science and Engineering
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+Linkedin:
+www.linkedin.com/in/edmilson-gomes-6b4353242
+
+Gmail:
 ed.gomes97@gmail.com
 
 
