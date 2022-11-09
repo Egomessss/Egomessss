@@ -4,10 +4,12 @@
 
 - <b>My Very First Solo Project : A simple Bastketball Scoreboard</b>
   - [Practicing HTML, CSS, Javascript and implementing simple concepts](https://egomessss.github.io/Basketball-Scoreboard/)
+- <b>My Second Project : A password generator</b>
+  - [Practicing HTML, CSS, Javascript and implementing simple concepts](https://egomessss.github.io/Password-generator/)
 - <b>My Personal Portfolio (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [description and (link)]</b></i>
 - <b>Chrome extension</b>
-  - [Allows Users To Full Screen A Youtube Video In Windowed Mode](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Allows Users To Full Screen A Youtube Video In Windowed Mode](link)
 - <b>Next Project - Connecting Citizens With Their Surroundings</b>
   - [Soon...]
   
