@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>My Very First Solo Project : A simple Bastketball Scoreboard</b>
-  - [Practicing HTML, CSS, Javascript and implementing simple concepts](link)
+  - [Practicing HTML, CSS, Javascript and implementing simple concepts](link src"https://egomessss.github.io/Basketball-Scoreboard/")
 - <b>My Personal Portfolio (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [description and (link)]</b></i>
 - <b>Chrome extension</b>
