@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edmilson! a <a href="https://www.linkedin.com/in/edmilson-gomes-6b4353242/">Software Enginneer </a><br/></h1>
+<h1>Hi, I'm Edmilson! a <a href="https://www.linkedin.com/in/edmilson-gomes-6b4353242/">Front End Developer</a><br/></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -15,7 +15,7 @@
   
 <h2>My Tech Stack</h2>
 
-- [HTML, CSS,CSS Bootstrap, Javascript,React, Redux Node.js, Express.js, MongoDB, Rest API, Git)
+- [HTML, CSS, Javascript, React, API's, Git)
 
 <h2>I'm Currently working on...</h2>
 Getting My Degree in Computer Science and Engineering
