@@ -6,16 +6,14 @@
   - [Practicing HTML, CSS, Javascript and implementing simple concepts](https://egomessss.github.io/Basketball-Scoreboard/)
 - <b>My Second Project : A password generator</b>
   - [Practicing HTML, CSS, Javascript and implementing simple concepts](https://egomessss.github.io/Password-generator/)
-- <b>My Personal Portfolio (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>My Personal Portfolio (React, Typescript, TailwindCSS, HTML)</b>
   - [description and (link)]</b></i>
-- <b>Chrome extension</b>
-  - [Allows Users To Full Screen A Youtube Video In Windowed Mode](link)
-- <b>Next Project - Connecting Citizens With Their Surroundings</b>
-  - [Soon...]
+- <b>My Airbnb clone(React, Typescript, TailwindCSS, HTML)</b>
+  - [description and (link)]</b></i>
   
 <h2>My Tech Stack</h2>
 
-- [HTML, CSS, Javascript, React, API's, Git)
+- [HTML, CSS, TailwindCSS, Javascript, Typescript, React, API's, Git)
 
 <h2>I'm Currently working on...</h2>
 Getting My Degree in Computer Science and Engineering
@@ -25,7 +23,5 @@ Getting My Degree in Computer Science and Engineering
 Linkedin:
 www.linkedin.com/in/edmilson-gomes-6b4353242
 
-Gmail:
-ed.gomes97@gmail.com
 
 
