@@ -11,7 +11,7 @@
 - <b>My Airbnb clone(React, Typescript, TailwindCSS, HTML)</b>
   - [description and (link)]</b></i>
   
-<h2>My Tech Stack</h2>
+<h2>My tools</h2>
 
 - [HTML, CSS, TailwindCSS, Javascript, Typescript, React, API's, Git)
 
@@ -22,6 +22,7 @@ Getting My Degree in Computer Science and Engineering
 
 Linkedin:
 www.linkedin.com/in/edmilson-gomes-6b4353242
+ed.gomes97@gmail.com 
 
 
 
