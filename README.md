@@ -4,7 +4,7 @@
 
 - <b>My Airbnb clone(React, Typescript, TailwindCSS, HTML)</b>
   - [Live demo ](https://firebnb.vercel.app/)</b></i>
-- - - <b>My Personal Portfolio (React, Typescript, TailwindCSS, HTML)</b>
+- <b>My Personal Portfolio (React, Typescript, TailwindCSS, HTML)</b>
   - [In development (link)]</b></i>
 - <b>My Very First Solo Project : A simple Bastketball Scoreboard</b>
   - [Practicing HTML, CSS, Javascript and implementing simple concepts](https://egomessss.github.io/Basketball-Scoreboard/)
